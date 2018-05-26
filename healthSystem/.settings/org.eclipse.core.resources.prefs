@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebRoot/page/main=UTF-8
+encoding//WebRoot/page/main/css/register-login.css=UTF-8
+encoding//WebRoot/page/main/homeqt.jsp=UTF-8
+encoding//WebRoot/page/main/introd.jsp=UTF-8
+encoding//WebRoot/page/main/news.jsp=UTF-8
+encoding//WebRoot/page/main/news2.jsp=UTF-8
+encoding//WebRoot/page/main/time.jsp=UTF-8
+encoding//WebRoot/page/user/jibingzicha.jsp=UTF-8
+encoding//src/com/tg/controller/DiagnoseController.java=UTF-8
+encoding//src/com/tg/controller/LoginController.java=UTF-8
+encoding//src/com/tg/controller/TitleController.java=UTF-8
+encoding//src/com/tg/controller/UploadController.java=UTF-8
+encoding//src/com/tg/entity/Addall.java=UTF-8
+encoding//src/com/tg/entity/add/ShowBaojingDate.java=UTF-8
+encoding/<project>=UTF-8
